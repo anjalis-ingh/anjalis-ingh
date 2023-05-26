@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello, I'm Anjali!
 
-<!--
-**anjalis-ingh/anjalis-ingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a current Computer Science student @ The University of Texas at Dallas.
 
-Here are some ideas to get you started:
+I'm actively exploring and wish to go in the field of UI/UX design and full-stack web and mobile development in the future!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Skills 
+
+**Programming:** Java, C/C++, HTML, CSS, JavaScript, Assembly (MIPS)
+
+**Framework/Tech/OS:** Android Studio, Linux/Unix, Firebase
+
+**Creative:** Adobe Premiere Pro, Adobe Photoshop, Canva
+
+Feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). I am always happy to chat!
