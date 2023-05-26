@@ -10,6 +10,6 @@ I'm actively exploring and wishing to go in the field of UI/UX design and full-s
 
 **Framework/Tech/OS:** Android Studio, Linux/Unix, jQuery, Git, Firebase, Bootstrap
 
-**Creative:** Adobe Premiere Pro, Adobe Photoshop, Canva
+**Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop, Canva
 
 Feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). I am always happy to chat!
