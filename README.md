@@ -8,7 +8,7 @@ I'm actively exploring and wishing to go in the field of UI/UX design and full-s
 
 **Programming:** Java, C/C++, HTML, CSS, JavaScript, Assembly (MIPS)
 
-**Framework/Tech/OS:** Android Studio, Linux/Unix, Git, Firebase, Bootstrap
+**Framework/Tech/OS:** Android Studio, Linux/Unix, jQuery, Git, Firebase, Bootstrap
 
 **Creative:** Adobe Premiere Pro, Adobe Photoshop, Canva
 
