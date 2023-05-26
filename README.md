@@ -2,7 +2,7 @@
 
 I'm a current Computer Science student @ The University of Texas at Dallas.
 
-I'm actively exploring and wish to go in the field of UI/UX design and full-stack web and mobile development in the future!
+I'm actively exploring and wishing to go in the field of UI/UX design and full-stack web and mobile development in the future!
 
 ### My Skills 
 
