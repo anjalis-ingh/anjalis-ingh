@@ -6,7 +6,7 @@ I'm actively exploring and wishing to go in the field of UI/UX design and full-s
 
 ### My Skills 
 
-**Programming:** Java, C/C++, HTML, CSS, JavaScript, Assembly (MIPS)
+**Programming:** Java, C/C++, Python, HTML, CSS, JavaScript, Assembly (MIPS)
 
 **Framework/Tech/OS:** Android Studio, Linux/Unix, jQuery, Git, Firebase, Bootstrap
 
