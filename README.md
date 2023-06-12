@@ -10,6 +10,6 @@ I'm actively exploring and wishing to go in the field of UI/UX design and full-s
 
 **Technologies:** Android Studio, Linux/Unix, SQLite, jQuery, Git, Firebase, Bootstrap
 
-**Creative:** Adobe XD, Adobe Premiere Pro
+**Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
 Feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). I am always happy to chat!
