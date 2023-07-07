@@ -5,9 +5,9 @@ I'm a current Computer Science student @ The University of Texas at Dallas.
 I'm actively exploring and wishing to go in the field of UI/UX design and full-stack web and mobile development in the future!
 
 ### My Skills 
-**Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, Assembly (MIPS)
+**Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#, Assembly (MIPS)
 
-**Technologies:** Android Studio, Linux/Unix, SQLite, jQuery, Git, Firebase, Bootstrap
+**Technologies:** Android Studio, Linux/Unix, Unity, SQLite, jQuery, Git, Firebase, Bootstrap
 
 **Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
