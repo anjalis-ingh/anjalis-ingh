@@ -7,7 +7,7 @@ I'm actively exploring and wishing to go in the field of UI/UX design and full-s
 ### My Skills 
 **Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#, Assembly (MIPS)
 
-**Technologies:** Android Studio, Linux/Unix, Unity, SQLite, jQuery, Git, Firebase, Bootstrap
+**Technologies:** Linux/Unix, Unity, SQLite, Android Studio, Figma, Git, jQuery, Firebase
 
 **Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
