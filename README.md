@@ -1,6 +1,6 @@
 ### Hello, I'm Anjali! <a href="https://emoji.gg/emoji/2614-cutewiggle"><img src="https://cdn3.emoji.gg/emojis/2614-cutewiggle.gif" width="44px" height="44px" alt="CuteWiggle"></a>
 
-I'm a current Computer Science student @ The University of Texas at Dallas.
+I'm a third-year Computer Science student @ The University of Texas at Dallas.
 
 I'm actively exploring and wishing to go in the field of UI/UX design and full-stack web and mobile development in the future!
 
