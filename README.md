@@ -11,4 +11,6 @@ I'm actively exploring and wishing to go in the field of UI/UX design and full-s
 
 **Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
-Check out my [Portfolio Website](anjalis-ingh.github.io/) here and feel free to contact me at axs200260@utdallas.edu or on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). I am always happy to chat! <a href="https://emoji.gg/emoji/6018-fcbfeebcaecacab"><img src="https://cdn3.emoji.gg/emojis/6018-fcbfeebcaecacab.gif" width="24px" height="24px" alt="fcbfeebcaecacab"></a>
+Check out my [Portfolio Website](anjalis-ingh.github.io/) here and feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). 
+
+I am always happy to chat! <a href="https://emoji.gg/emoji/6018-fcbfeebcaecacab"><img src="https://cdn3.emoji.gg/emojis/6018-fcbfeebcaecacab.gif" width="24px" height="24px" alt="fcbfeebcaecacab"></a>
