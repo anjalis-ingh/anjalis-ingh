@@ -11,6 +11,6 @@ I'm passionate about software product development, digital design, and visual br
 
 **Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
-Check out my [Portfolio Website](https://anjalis-ingh.github.io/) here and feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). 
+Check out my [Portfolio Website](https://anjali-singh.com/) here and feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). 
 
 I am always happy to chat! <a href="https://emoji.gg/emoji/6018-fcbfeebcaecacab"><img src="https://cdn3.emoji.gg/emojis/6018-fcbfeebcaecacab.gif" width="24px" height="24px" alt="fcbfeebcaecacab"></a>
