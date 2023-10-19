@@ -5,9 +5,9 @@ I'm a third-year Computer Science student @ The University of Texas at Dallas.
 I'm passionate about software product development, digital design, and visual branding!
 
 ### My Skills 
-**Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#, Assembly (MIPS)
+**Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#
 
-**Technologies:** Linux/Unix, Unity, SQLite, Android Studio, Figma, Git, jQuery, Firebase
+**Technologies:** Figma, Unity, Linux/Unix, SQLite, Android Studio, Git, jQuery, Firebase
 
 **Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
