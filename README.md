@@ -7,7 +7,7 @@ I'm passionate about software product development, digital design, and visual br
 ### My Skills 
 **Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#
 
-**Technologies:** Figma, Unity, Linux/Unix, SQLite, Android Studio, Git, jQuery, Firebase
+**Technologies:** Figma, Sketch, Unity, Linux/Unix, SQLite, Android Studio, Git, jQuery, Firebase
 
 **Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
 
