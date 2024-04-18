@@ -5,11 +5,11 @@ I'm a third-year Computer Science student @ The University of Texas at Dallas.
 I'm passionate about software product development, digital design, and visual branding!
 
 ### My Skills 
-**Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#
+**Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#, React.js
 
-**Technologies:** Figma, Sketch, Unity, Linux/Unix, SQLite, Android Studio, Git, jQuery, Firebase
+**Technologies:** Figma, Sketch, Unity, Android Studio, VS Code, Firebase, Git, Linux/Unix, SQLite, jQuery
 
-**Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop
+**Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop, Canva 
 
 Check out my [Portfolio Website](https://anjali-singh.com/) here and feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). 
 
