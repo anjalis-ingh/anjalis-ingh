@@ -7,9 +7,7 @@ I'm passionate about software product development, digital design, and visual br
 ### My Skills 
 **Languages:** Java, C/C++, Python, HTML, CSS, JavaScript, C#, React.js
 
-**Technologies:** Figma, Sketch, Unity, Android Studio, VS Code, Firebase, Git, Linux/Unix, SQLite, jQuery
-
-**Creative:** Adobe XD, Adobe Premiere Pro, Adobe Photoshop, Canva 
+**Technologies:** Figma, Sketch, Unity, Android Studio, VS Code, Adobe Creative Suite, Firebase, Git, Linux/Unix, SQL, jQuery 
 
 Check out my [Portfolio Website](https://anjali-singh.com/) here and feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). 
 
