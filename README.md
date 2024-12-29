@@ -2,12 +2,10 @@
 
 I'm a fourth-year Computer Science student @ The University of Texas at Dallas.
 
-I'm passionate about software product development, digital design, and visual branding!
-
 ### My Skills 
-**Languages:** Java, C, C++, React.js, Python, HTML, CSS, JavaScript, C#
+**Languages:** Java, C, C++, Angular, React, Node.js, Vue.js, Swift, HTML/CSS, JavaScript, Python, C#
 
-**Technologies:** Figma, Adobe Creative Suite, Sketch, Unity, Git, Firebase, SQLite 
+**Technologies:** Figma, FigJam, Sketch, Adobe Creative Suite, Unity, Git, Firebase, SQLite
 
 Check out my [Portfolio Website](https://anjali-singh.com/) here and feel free to contact me at axs200260@utdallas.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/anjali-singh-6514b520b/). 
 
